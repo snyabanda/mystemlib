@@ -1,5 +1,5 @@
 <template>
-    <v-app-bar :elevation ="2" color = "white">
+    <v-app-bar :elevation ="2" color = #36013F>
 
       <v-app-bar-title>USOMI STEM LIBRARY</v-app-bar-title>
     
